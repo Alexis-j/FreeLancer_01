@@ -21,12 +21,7 @@ const theme = createTheme({
     secondary: {
       main: "#00000",
     },
-        customColor1: {
-      main: "#123456",
-    },
-    customColor2: {
-      main: "#789abc",
-    },
+    
   },
 });
 
